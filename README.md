@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+
 
 ### Hi, I am Max😁👋
 I am data scientist looking for opportunities and collaboration in projects related to data science and Machine learning.
