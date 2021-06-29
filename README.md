@@ -1,7 +1,7 @@
 
 
 ### Hi, I am Max😁👋
-I am data scientist looking for opportunities and collaboration in projects related to data science and Machine learning.
+I am Implementation Analyst.
 
 - 🔭 I am currently working on financial market data to detect patterns of anomalies in stock values ​​(in addition, I am improving my data structures and algorithm skills on a regular basis).
 - 🌱 I am currently learning analysis and graphic creation techniques in the scikit-learn and NumPy libraries.
