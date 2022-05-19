@@ -3,9 +3,9 @@
 ### Hi, I am Max😁👋
 I am Data Analyst.
 
-- 🔭 I am currently working on financial market data to detect patterns of anomalies in stock values ​​(in addition, I am improving my data structures and algorithm skills on a regular basis).
-- 🌱 I am currently learning analysis and graphic creation techniques in the scikit-learn and NumPy libraries.
-- 🤝 I’m looking to collaborate on data science and Machine learning projects. 
+- 🔭  I'm currently working at a company called "Mereo Brasil", whose object of my role is to analyze and develop dashboards and insights for decision making within the company.
+- 🌱 I'm currently learning analysis and graphic creation techniques in the scikit-learn, NumPy, Pandas libraries, as well as improving my knowledge in Tableau and Power BI.
+- 🤝 I'm looking to collaborate on data science and machine learning projects, to contribute to the growth of the area. 
 
 
 ![Maxuel Antenor GitHub stats](https://github-readme-stats.vercel.app/api?username=maxuelantenor&show_icons=true&theme=radical)
