@@ -3,8 +3,8 @@
 ### Hi, I am Max😁👋
 I am Data Analyst.
 
-- 🔭  I'm currently working at a company called "Mereo Brasil", whose object of my role is to analyze and develop dashboards and insights for decision making within the company.
-- 🌱 I'm currently learning analysis and graphic creation techniques in the scikit-learn, NumPy, Pandas libraries, as well as improving my knowledge in Tableau and Power BI.
+- 🔭  I recently worked at a company called "Mereo Brasil", whose object of my role was to analyze and develop dashboards and insights for decision making within the company.
+- 🌱 I'm currently learning techniques of analysis and graphic creation in scikit-learn, NumPy, Metabase, Pandas libraries, in addition to improving my knowledge in Tableau, Power BI. In addition, I dedicate my time teaching mini courses focused on the area of ​​data science, in addition to participating in Amazon Web Services (AWS) courses, to improve my knowledge of the various tools present.
 - 🤝 I'm looking to collaborate on data science and machine learning projects, to contribute to the growth of the area. 
 
 
